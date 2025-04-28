@@ -46,10 +46,10 @@
 
 
   
-  <a href="https://www.linkedin.com/in/jkalith/" target="_blank">
+ <a href="https://www.instagram.com/jkalith.dev?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="jamesarias2383@gmail.com" target="_blank">
+  <a   href="mailto:jamesarias2383@gmail.com?subject=Estoy interesado en tu curriculum ">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
