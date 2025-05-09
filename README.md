@@ -3,6 +3,7 @@
 ###
 
 <p align="left">Hello! I'm James Kalith, a frontend developer from Costa Rica.</p>
+<p align="left">My linkedin</p> <a href="https://www.linkedin.com/in/jkalith/">
 
 ###
 
