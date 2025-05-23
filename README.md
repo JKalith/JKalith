@@ -19,11 +19,8 @@
 <p align="left">-🖌️ User interface design<br>-🌐 Web development applications<br>-🧩 User experience (UX) and accessibility<br>-🚀 Technological innovation and developing trends<br><br>My goal is to continue learning and improving my skills as a frontend developer, collaborating on challenging projects and contributing to creating exceptional digital experiences for customers.</p>
 
 ###
-
 <h2 align="left">I code with</h2>
-
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -49,9 +46,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 
-
-
-  
  <a href="https://www.instagram.com/jkalith.dev?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
