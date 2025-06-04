@@ -19,6 +19,7 @@
 <p align="left">-🖌️ User interface design<br>-🌐 Web development applications<br>-🧩 User experience (UX) and accessibility<br>-🚀 Technological innovation and developing trends<br><br>My goal is to continue learning and improving my skills as a frontend developer, collaborating on challenging projects and contributing to creating exceptional digital experiences for customers.</p>
 
 ###
+
 <h2 align="left">I code with</h2>
 ###
 <div align="left">
